@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "j-strcmp": {
+      "commandName": "Project",
+      "commandLineArgs": "Microsoft"
+    }
+  }
+}
